@@ -39,8 +39,8 @@ XrpTrustFlow is a revolutionary platform that simplifies the process of creating
 
 To use XrpTrustFlow, you will need:
 
-- [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) for running the application
-- [Xumm Wallet](https://xumm.app/) for logging into the platform
+- Node.js and npm for running the application
+- Xumm Wallet for logging into the platform
 - An XRP account on the XRPL to create and manage escrows
 
 ## Usage
